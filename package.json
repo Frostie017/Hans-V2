@@ -1,19 +1,19 @@
 {
-    "name": "HANS-V2",
+    "name": "SEAN-MD",
     "version": "11.0.0",
-    "description": "Whatsapp Bot By Hans_Tech",
+    "description": "Whatsapp Bot By FROSTIE",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
         "lib": "lib",
         "src": "src",
-        "media": "XeonMedia"
+        "media": "frostMedia"
     },
     "scripts": {
         "code": "node main.js",
         "start": "node index.js"
     },
-    "author": "Hans_Techh",
+    "author": "frostie",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.6.0",

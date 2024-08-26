@@ -1,3 +1,3 @@
 {
-	"name": "HANS MULTIDEVICE BOT "
+	"name": "Sean MD"
 }
